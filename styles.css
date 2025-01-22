@@ -1,0 +1,1447 @@
+.ultimate {
+    width: 1321px;
+    position: relative;
+    line-height: 140%;
+    display: inline-block;
+    height: 277px;
+    flex-shrink: 0;
+}
+.ultimate {
+    position: absolute;
+    top: 881px;
+    left: calc(50% - 507px);
+    width: 1160px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    box-sizing: border-box;
+    font-size: 311px;
+    color: #f1ff00;
+    font-family: 'Super Story';
+}
+.why-choose {
+    position: absolute;
+    top: 2206px;
+    left: calc(50% - 387px);
+    font-size: 121px;
+    line-height: 140%;
+    font-family: 'Super Story';
+    color: #f1ff00;
+    display: inline-block;
+    width: 774px;
+    height: 142px;
+}
+.our-application {
+    position: absolute;
+    top: 3677px;
+    left: calc(50% - 686px);
+    font-size: 121px;
+    line-height: 140%;
+    font-family: 'Super Story';
+    color: #f1ff00;
+    display: inline-block;
+    width: 914px;
+    height: 142px;
+}
+.join-thousands-of {
+    position: absolute;
+    top: 8381px;
+    left: calc(50% - 584px);
+    font-size: 121px;
+    line-height: 110%;
+    font-family: 'Super Story';
+    color: #f1ff00;
+    text-align: center;
+    display: inline-block;
+    width: 1168px;
+    height: 142px;
+}
+.app-name {
+    position: absolute;
+    top: 4492px;
+    left: calc(50% - 179px);
+    font-size: 61px;
+    line-height: 140%;
+    font-family: 'Super Story';
+    color: #f1ff00;
+    display: inline-block;
+    width: 469px;
+    height: 78px;
+}
+.app-name1 {
+    position: absolute;
+    top: 5090px;
+    left: calc(50% - 532px);
+    font-size: 61px;
+    line-height: 140%;
+    font-family: 'Super Story';
+    color: #f1ff00;
+    display: inline-block;
+    width: 469px;
+    height: 78px;
+}
+.app-name2 {
+    position: absolute;
+    top: 5679px;
+    left: calc(50% - 178px);
+    font-size: 61px;
+    line-height: 140%;
+    font-family: 'Super Story';
+    color: #f1ff00;
+    display: inline-block;
+    width: 469px;
+    height: 78px;
+}
+.app-name3 {
+    position: absolute;
+    top: 6300px;
+    left: calc(50% - 542px);
+    font-size: 61px;
+    line-height: 140%;
+    font-family: 'Super Story';
+    color: #f1ff00;
+    display: inline-block;
+    width: 469px;
+    height: 78px;
+}
+.app-name4 {
+    position: absolute;
+    top: 6889px;
+    left: calc(50% - 177px);
+    font-size: 61px;
+    line-height: 140%;
+    font-family: 'Super Story';
+    color: #f1ff00;
+    display: inline-block;
+    width: 469px;
+    height: 78px;
+}
+.app-name5 {
+    position: absolute;
+    top: 7510px;
+    left: calc(50% - 537px);
+    font-size: 61px;
+    line-height: 140%;
+    font-family: 'Super Story';
+    color: #f1ff00;
+    display: inline-block;
+    width: 469px;
+    height: 78px;
+}
+.learning {
+    width: 1015px;
+    position: relative;
+    line-height: 140%;
+    display: inline-block;
+    height: 227px;
+    flex-shrink: 0;
+}
+.learning-wrapper {
+    position: absolute;
+    top: 1189px;
+    left: calc(50% - 518px);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    font-size: 241px;
+    color: #fff;
+    font-family: 'Super Story';
+}
+.go-to-app {
+    position: relative;
+    line-height: 140%;
+}
+.go-to-app-store-wrapper {
+    position: absolute;
+    top: 1902px;
+    left: calc(50% - 120px);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    font-size: 29px;
+    color: #fff;
+}
+.at-kids-software {
+    width: 1294px;
+    position: relative;
+    line-height: 160%;
+    display: inline-block;
+    flex-shrink: 0;
+}
+.at-kids-software-we-believe-i-wrapper {
+    position: absolute;
+    top: 1497px;
+    left: calc(50% - 657px);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    text-align: center;
+    color: #fff;
+}
+.googleplaylogo-icon {
+    width: 55px;
+    position: relative;
+    height: 55px;
+}
+.explore-more {
+    position: relative;
+    line-height: 120%;
+    font-weight: 600;
+}
+.arrowupleft-icon {
+    width: 61px;
+    position: relative;
+    height: 61px;
+    object-fit: contain;
+}
+.googleplaylogo-parent {
+    position: absolute;
+    top: 1766px;
+    left: calc(50% - 198px);
+    border-radius: 48px;
+    background-color: #f1ff00;
+    border: 1px solid #fff;
+    box-sizing: border-box;
+    width: 396px;
+    height: 127px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    gap: 10px;
+}
+.hero_image {
+    margin: 20px;
+    width: 100%;
+    height: 80vh;
+    align-items: center;
+}
+.d-rendering-boy-playing-online-parent {
+    position: absolute;
+    top: 155px;
+    left: 54px;
+    width: 1331px;
+    height: 1010px;
+}
+.image-15-icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 268px;
+    height: 117px;
+    object-fit: cover;
+}
+.image-16-icon {
+    position: absolute;
+    top: 18px;
+    left: 134px;
+    width: 268px;
+    height: 117px;
+    object-fit: cover;
+}
+.image-17-icon {
+    position: absolute;
+    top: 0px;
+    left: 338px;
+    width: 268px;
+    height: 117px;
+    object-fit: cover;
+}
+.image-18-icon {
+    position: absolute;
+    top: 18px;
+    left: 533px;
+    width: 268px;
+    height: 117px;
+    object-fit: cover;
+}
+.image-18-icon1 {
+    position: absolute;
+    top: 10px;
+    left: 709px;
+    width: 268px;
+    height: 117px;
+    object-fit: cover;
+}
+.image-19-icon {
+    position: absolute;
+    top: 0px;
+    left: 912px;
+    width: 268px;
+    height: 117px;
+    object-fit: cover;
+}
+.image-20-icon {
+    position: absolute;
+    top: 46px;
+    left: 977px;
+    width: 268px;
+    height: 117px;
+    object-fit: cover;
+}
+.image-21-icon {
+    position: absolute;
+    top: 0px;
+    left: 1129px;
+    width: 268px;
+    height: 117px;
+    object-fit: cover;
+}
+.image-22-icon {
+    position: absolute;
+    top: 28px;
+    left: 1261px;
+    width: 268px;
+    height: 117px;
+    object-fit: cover;
+}
+.image-23-icon {
+    position: absolute;
+    top: 18px;
+    left: 1277px;
+    width: 268px;
+    height: 117px;
+    object-fit: cover;
+}
+.image-15-parent {
+    position: absolute;
+    top: 2009px;
+    left: -53px;
+    width: 1545px;
+    height: 163px;
+}
+.image-15-group {
+    position: absolute;
+    top: 3512px;
+    left: -53px;
+    width: 1545px;
+    height: 163px;
+}
+.img_endpoint {
+    position: absolute;
+}
+.kids-software-landing-page-child {
+    position: absolute;
+    height: 2.92%;
+    width: 22.97%;
+    top: 9.88%;
+    right: 79.74%;
+    bottom: 87.2%;
+    left: -2.71%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: contain;
+}
+.kids-software-landing-page-item {
+    position: absolute;
+    height: 3.39%;
+    width: 26.66%;
+    top: 9.99%;
+    right: -4.65%;
+    bottom: 86.63%;
+    left: 77.99%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: contain;
+}
+.kids-software-landing-page-inner {
+    position: absolute;
+    top: 2405.96px;
+    left: calc(50% - 680.99px);
+    width: 1363.7px;
+    height: 435.3px;
+    object-fit: contain;
+}
+.group-icon {
+    position: absolute;
+    top: 2745.13px;
+    left: calc(50% - 672.93px);
+    width: 1347.5px;
+    height: 337.6px;
+    object-fit: contain;
+}
+.kids-software-landing-page-child1 {
+    position: absolute;
+    top: 2941px;
+    left: calc(50% - 666px);
+    width: 1369.3px;
+    height: 537.4px;
+    object-fit: contain;
+}
+.rectangle-div {
+    position: absolute;
+    top: 3908px;
+    left: 0px;
+    background-color: #fff;
+    width: 1440px;
+    height: 506px;
+}
+.m {
+    position: absolute;
+    top: 3977px;
+    left: calc(50% - 545px);
+    font-size: 100px;
+    line-height: 140%;
+    font-family: 'Super Story';
+    display: inline-block;
+    width: 241px;
+    height: 142px;
+}
+.m1 {
+    position: absolute;
+    top: 3977px;
+    left: calc(50% - 166px);
+    font-size: 141px;
+    line-height: 140%;
+    font-family: 'Super Story';
+    display: inline-block;
+    width: 380px;
+    height: 142px;
+}
+.k {
+    position: absolute;
+    top: 3977px;
+    left: calc(50% + 373px);
+    font-size: 141px;
+    line-height: 140%;
+    font-family: 'Super Story';
+    display: inline-block;
+    width: 213px;
+    height: 142px;
+}
+.download {
+    position: absolute;
+    top: 4136px;
+    left: 185px;
+    font-size: 42px;
+    line-height: 104%;
+    font-weight: 600;
+    display: inline-block;
+    width: 221px;
+    height: 51px;
+}
+.visitors {
+    position: absolute;
+    top: 4136px;
+    left: 654px;
+    font-size: 42px;
+    line-height: 104%;
+    font-weight: 600;
+    display: inline-block;
+    width: 164px;
+    height: 51px;
+}
+.happy-customar {
+    position: absolute;
+    top: 4136px;
+    left: 1043px;
+    font-size: 42px;
+    line-height: 104%;
+    font-weight: 600;
+    display: inline-block;
+    width: 344px;
+    height: 51px;
+}
+.googleplaylogo-group {
+    position: absolute;
+    top: 4242px;
+    left: calc(50% - 198px);
+    border-radius: 48px;
+    background-color: #f1ff00;
+    border: 1px solid #fff;
+    box-sizing: border-box;
+    width: 396px;
+    height: 127px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    gap: 10px;
+}
+.at-kids-software1 {
+    width: 700px;
+    position: relative;
+    line-height: 160%;
+    display: inline-block;
+    flex-shrink: 0;
+}
+.at-kids-software-we-believe-i-container {
+    position: absolute;
+    top: 92px;
+    left: calc(50% - 113.5px);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+}
+.googleplaylogo-container {
+    position: absolute;
+    top: 428px;
+    left: calc(50% - 113.5px);
+    border-radius: 48px;
+    background-color: #f1ff00;
+    border: 1px solid #fff;
+    box-sizing: border-box;
+    width: 396px;
+    height: 118px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    gap: 10px;
+    font-size: 35px;
+    color: #2b1354;
+}
+.group-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 61px;
+    background-color: #d9d9d9;
+    width: 462px;
+    height: 546px;
+}
+.frame-parent {
+    position: absolute;
+    top: 4478px;
+    left: calc(50% - 672px);
+    width: 1213px;
+    height: 546px;
+    font-size: 31px;
+    color: #fff;
+}
+.at-kids-software-we-believe-i-frame {
+    position: absolute;
+    top: 5780px;
+    left: calc(50% - 178px);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    font-size: 31px;
+    color: #fff;
+}
+.frame-div {
+    position: absolute;
+    top: 6116px;
+    left: calc(50% - 178px);
+    border-radius: 48px;
+    background-color: #f1ff00;
+    border: 1px solid #fff;
+    box-sizing: border-box;
+    width: 396px;
+    height: 118px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    gap: 10px;
+}
+.kids-software-landing-page-child2 {
+    position: absolute;
+    top: 5688px;
+    left: 49px;
+    border-radius: 61px;
+    background-color: #d9d9d9;
+    width: 462px;
+    height: 546px;
+}
+.at-kids-software-we-believe-i-wrapper1 {
+    position: absolute;
+    top: 6990px;
+    left: calc(50% - 177px);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    font-size: 31px;
+    color: #fff;
+}
+.googleplaylogo-parent1 {
+    position: absolute;
+    top: 7326px;
+    left: calc(50% - 177px);
+    border-radius: 48px;
+    background-color: #f1ff00;
+    border: 1px solid #fff;
+    box-sizing: border-box;
+    width: 396px;
+    height: 118px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    gap: 10px;
+}
+.kids-software-landing-page-child3 {
+    position: absolute;
+    top: 6898px;
+    left: 50px;
+    border-radius: 61px;
+    background-color: #d9d9d9;
+    width: 462px;
+    height: 546px;
+}
+.at-kids-software-we-believe-i-wrapper2 {
+    position: absolute;
+    top: 5191px;
+    left: calc(50% - 543px);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    font-size: 31px;
+    color: #fff;
+}
+.at-kids-software-we-believe-i-wrapper3 {
+    position: absolute;
+    top: 6401px;
+    left: calc(50% - 542px);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    font-size: 31px;
+    color: #fff;
+}
+.at-kids-software-we-believe-i-wrapper4 {
+    position: absolute;
+    top: 7611px;
+    left: calc(50% - 541px);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    font-size: 31px;
+    color: #fff;
+}
+.discover-why-parents {
+    width: 1335px;
+    position: relative;
+    line-height: 160%;
+    display: inline-block;
+    flex-shrink: 0;
+}
+.discover-why-parents-trust-kid-wrapper {
+    position: absolute;
+    top: 8652px;
+    left: calc(50% - 673px);
+    width: 1345px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    box-sizing: border-box;
+    font-size: 31px;
+    color: #fff;
+}
+.googleplaylogo-parent2 {
+    position: absolute;
+    top: 5527px;
+    left: calc(50% - 539px);
+    border-radius: 48px;
+    background-color: #f1ff00;
+    border: 1px solid #fff;
+    box-sizing: border-box;
+    width: 396px;
+    height: 118px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    gap: 10px;
+}
+.googleplaylogo-parent3 {
+    position: absolute;
+    top: 6737px;
+    left: calc(50% - 538px);
+    border-radius: 48px;
+    background-color: #f1ff00;
+    border: 1px solid #fff;
+    box-sizing: border-box;
+    width: 396px;
+    height: 118px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    gap: 10px;
+}
+.googleplaylogo-parent4 {
+    position: absolute;
+    top: 7947px;
+    left: calc(50% - 537px);
+    border-radius: 48px;
+    background-color: #f1ff00;
+    border: 1px solid #fff;
+    box-sizing: border-box;
+    width: 396px;
+    height: 118px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    gap: 10px;
+}
+.kids-software-landing-page-child4 {
+    position: absolute;
+    top: 5099px;
+    left: 1390px;
+    border-radius: 61px;
+    background-color: #d9d9d9;
+    width: 462px;
+    height: 546px;
+    transform:  rotate(180deg);
+    transform-origin: 0 0;
+}
+.kids-software-landing-page-child5 {
+    position: absolute;
+    top: 6309px;
+    left: 1391px;
+    border-radius: 61px;
+    background-color: #d9d9d9;
+    width: 462px;
+    height: 546px;
+    transform:  rotate(180deg);
+    transform-origin: 0 0;
+}
+.kids-software-landing-page-child6 {
+    position: absolute;
+    top: 7519px;
+    left: 1392px;
+    border-radius: 61px;
+    background-color: #d9d9d9;
+    width: 462px;
+    height: 546px;
+    transform:  rotate(180deg);
+    transform-origin: 0 0;
+}
+.what-parents-are {
+    position: relative;
+    line-height: 120%;
+}
+.what-parents-are-saying-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
+.avatarwoman1-icon {
+    width: 56px;
+    position: relative;
+    height: 56px;
+    object-fit: cover;
+}
+.jassica-andrew {
+    position: relative;
+    letter-spacing: 0.01em;
+    line-height: 150%;
+    font-weight: 600;
+}
+.star-1-1 {
+    width: 16px;
+    position: relative;
+    height: 16px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.star-1-1-parent {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 8px;
+}
+.avatarwoman1-parent {
+    position: absolute;
+    top: 27px;
+    left: calc(50% - 77px);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 8px;
+}
+.my-child-has {
+    position: absolute;
+    top: 165px;
+    left: 20px;
+    font-size: 16px;
+    line-height: 150%;
+    font-family: Nunito;
+    display: inline-block;
+    width: 318px;
+}
+.frame-parent1 {
+    width: 358px;
+    position: relative;
+    box-shadow: 0px 50px 80px rgba(0, 0, 0, 0.05);
+    border-radius: 20px;
+    background-color: #21adf3;
+    height: 247px;
+    overflow: hidden;
+    flex-shrink: 0;
+    z-index: 0;
+}
+.avatarwoman1-group {
+    position: absolute;
+    top: 27px;
+    left: calc(50% - 91px);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 8px;
+}
+.frame-parent2 {
+    width: 358px;
+    position: relative;
+    box-shadow: 0px 50px 80px rgba(0, 0, 0, 0.05);
+    border-radius: 20px;
+    background-color: #fe7044;
+    height: 287px;
+    overflow: hidden;
+    flex-shrink: 0;
+    z-index: 1;
+}
+.avatarwoman1-container {
+    position: absolute;
+    top: 27px;
+    left: calc(50% - 71.5px);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 8px;
+}
+.frame-parent3 {
+    width: 358px;
+    position: relative;
+    box-shadow: 0px 50px 80px rgba(0, 0, 0, 0.05);
+    border-radius: 20px;
+    background-color: #cb6cdd;
+    height: 247px;
+    overflow: hidden;
+    flex-shrink: 0;
+    z-index: 2;
+}
+.frame-child {
+    width: 48px;
+    position: absolute;
+    margin: 0 !important;
+    top: 91px;
+    left: 1167px;
+    height: 48px;
+    z-index: 3;
+}
+.frame-item {
+    width: 48px;
+    position: absolute;
+    margin: 0 !important;
+    top: 91px;
+    left: -77px;
+    height: 48px;
+    object-fit: contain;
+    z-index: 4;
+}
+.frame-container {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: relative;
+    gap: 32px;
+    font-size: 20px;
+    color: #fff;
+    font-family: Inter;
+}
+.frame-group {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 56px;
+}
+.kids-software-landing-page-inner1 {
+    position: absolute;
+    top: 8696px;
+    left: 2px;
+    width: 1438px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 80px 143px;
+    box-sizing: border-box;
+    text-align: center;
+    font-size: 46px;
+    color: #f1ff00;
+    font-family: 'Super Story';
+}
+.group-div {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1545px;
+    height: 163px;
+}
+.image-15-parent1 {
+    position: absolute;
+    top: 1040px;
+    left: 0px;
+    width: 1545px;
+    height: 163px;
+}
+.group-container {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1545px;
+    height: 1203px;
+}
+.group-item {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #f9fcfd;
+    width: 1440px;
+    height: 1005px;
+}
+.rectangle-wrapper {
+    position: absolute;
+    top: 96px;
+    left: 53px;
+    width: 1440px;
+    height: 1005px;
+}
+.group-parent {
+    position: absolute;
+    top: 9264px;
+    left: -53px;
+    width: 1545px;
+    height: 1203px;
+}
+.engage-explore {
+    position: absolute;
+    top: 9354px;
+    left: calc(50% - 634px);
+    font-size: 151px;
+    line-height: 110%;
+    font-family: 'Super Story';
+    text-align: center;
+    display: inline-block;
+    width: 1268px;
+    height: 142px;
+}
+.select-from-a {
+    width: 674px;
+    position: relative;
+    line-height: 130%;
+    display: inline-block;
+    flex-shrink: 0;
+}
+.select-from-a-range-of-learnin-wrapper {
+    position: absolute;
+    top: 9643px;
+    left: calc(50% - 677px);
+    border-radius: 20px;
+    background-color: #cb6cdd;
+    height: 208px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-content: center;
+    padding: 10px 10px 10px 39px;
+    box-sizing: border-box;
+    font-size: 31px;
+    color: #fff;
+}
+.frame-icon {
+    position: absolute;
+    top: 9765px;
+    left: calc(50% - 646px);
+    border-radius: 20px;
+    width: 749.3px;
+    height: 341.2px;
+    object-fit: contain;
+}
+.kids-software-landing-page-child7 {
+    position: absolute;
+    top: 10067px;
+    left: calc(50% - 631px);
+    border-radius: 20px;
+    width: 730.8px;
+    height: 237.2px;
+    object-fit: contain;
+}
+.bg {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 20px;
+    width: 1440px;
+    height: 331px;
+}
+.do-you-still {
+    width: 879px;
+    position: relative;
+    line-height: 130%;
+    display: inline-block;
+}
+.dont-hesitate-to {
+    align-self: stretch;
+    position: relative;
+    font-size: 26px;
+    line-height: 150%;
+    font-family: Nunito;
+    opacity: 0.8;
+}
+.do-you-still-have-any-question-parent {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 16px;
+}
+.bg1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 0px 10px 10px 0px;
+    background-color: #f1ff00;
+    width: 165.4px;
+    height: 60px;
+}
+.subscribe2 {
+    position: absolute;
+    top: 21px;
+    left: 37.27px;
+    font-weight: 500;
+    display: inline-block;
+    width: 90.9px;
+}
+.button {
+    position: absolute;
+    top: 0px;
+    left: 427.48px;
+    width: 165.4px;
+    height: 60px;
+}
+.bg2 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 10px 0px 0px 10px;
+    background-color: rgba(255, 255, 255, 0.1);
+    width: 427.5px;
+    height: 60px;
+}
+.enter-your-email {
+    position: absolute;
+    top: 15px;
+    left: 23.3px;
+    line-height: 30px;
+    display: inline-block;
+    width: 213.2px;
+}
+.button1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 427.5px;
+    height: 60px;
+    text-align: left;
+    color: #fff;
+    font-family: Nunito;
+}
+.subscribe1 {
+    width: 592.9px;
+    position: relative;
+    height: 60px;
+    text-align: right;
+    font-size: 16px;
+    color: #2b1354;
+    font-family: Inter;
+}
+.frame-parent4 {
+    position: absolute;
+    top: 64px;
+    left: 433.13px;
+    width: 592.9px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 32px;
+}
+.images-icon {
+    position: absolute;
+    top: 30px;
+    left: 105.92px;
+    width: 1228.2px;
+    height: 272px;
+}
+.subscribe {
+    position: absolute;
+    top: 10504px;
+    left: 0px;
+    width: 1440px;
+    height: 474px;
+    text-align: center;
+    font-size: 86px;
+    color: #fff;
+    font-family: 'Super Story';
+}
+.group-inner {
+    position: absolute;
+    top: 1047px;
+    left: calc(50% - 720px);
+    background-color: #f1ff00;
+    width: 1440px;
+    height: 461px;
+}
+.our-services {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+.online-class {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    letter-spacing: 0.03em;
+}
+.baby-care {
+    position: absolute;
+    top: 34px;
+    left: 0px;
+    letter-spacing: 0.03em;
+}
+.shop {
+    position: absolute;
+    top: 68px;
+    left: 0px;
+    letter-spacing: 0.03em;
+}
+.kids-playzone {
+    position: absolute;
+    top: 102px;
+    left: 0px;
+    letter-spacing: 0.03em;
+}
+.nurse {
+    position: absolute;
+    top: 136px;
+    left: 0px;
+    letter-spacing: 0.03em;
+}
+.online-class-parent {
+    position: absolute;
+    top: 41px;
+    left: 0px;
+    width: 106px;
+    height: 155px;
+    text-align: left;
+    font-size: 16px;
+    font-family: Roboto;
+}
+.our-services-parent {
+    position: absolute;
+    top: 1161px;
+    left: 510px;
+    width: 131px;
+    height: 196px;
+}
+.terms-of-service {
+    position: absolute;
+    top: 132px;
+    left: 0px;
+    letter-spacing: 0.03em;
+}
+.about-us-parent {
+    position: absolute;
+    top: 41px;
+    left: 0px;
+    width: 126px;
+    height: 151px;
+    text-align: left;
+    font-size: 16px;
+    font-family: Roboto;
+}
+.useful-links-parent {
+    position: absolute;
+    top: 1161px;
+    left: 825px;
+    width: 126px;
+    height: 192px;
+}
+.kids-software {
+    position: absolute;
+    top: 0px;
+    left: 2px;
+}
+.at-kids-software7 {
+    position: absolute;
+    top: 44px;
+    left: 2px;
+    font-size: 16px;
+    letter-spacing: 0.03em;
+    font-family: Poppins;
+    text-align: left;
+    display: inline-block;
+    width: 353px;
+}
+.group-child1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 39px;
+    height: 39px;
+}
+.group-child2 {
+    position: absolute;
+    top: 0px;
+    left: 49px;
+    width: 39px;
+    height: 39px;
+}
+.group-child3 {
+    position: absolute;
+    top: 0px;
+    left: 98px;
+    width: 39px;
+    height: 39px;
+}
+.group-child4 {
+    position: absolute;
+    top: 0px;
+    left: 147px;
+    width: 39px;
+    height: 39px;
+}
+.group-parent1 {
+    position: absolute;
+    top: 183px;
+    left: 0px;
+    width: 186px;
+    height: 39px;
+}
+.kids-software-parent {
+    position: absolute;
+    top: 1161px;
+    left: 80px;
+    width: 355px;
+    height: 222px;
+}
+.newsletter {
+    position: absolute;
+    top: 1161px;
+    left: 0px;
+    font-size: 22px;
+    font-family: Righteous;
+    text-align: center;
+}
+.aplications-prodize-before {
+    position: absolute;
+    top: 1203px;
+    left: 0px;
+    font-size: 16px;
+    letter-spacing: 0.03em;
+    display: inline-block;
+    width: 334px;
+}
+.group-child5 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #fff;
+    border: 1px solid rgba(44, 44, 44, 0);
+    box-sizing: border-box;
+    width: 333px;
+    height: 40px;
+}
+.your-email {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    letter-spacing: 0.03em;
+    text-shadow: 1px 0 0 rgba(44, 44, 44, 0), 0 1px 0 rgba(44, 44, 44, 0), -1px 0 0 rgba(44, 44, 44, 0), 0 -1px 0 rgba(44, 44, 44, 0);
+}
+.your-email1 {
+    position: absolute;
+    top: 62px;
+    left: 128px;
+    letter-spacing: 0.03em;
+    text-shadow: 1px 0 0 rgba(44, 44, 44, 0), 0 1px 0 rgba(44, 44, 44, 0), -1px 0 0 rgba(44, 44, 44, 0), 0 -1px 0 rgba(44, 44, 44, 0);
+}
+.your-email2 {
+    position: absolute;
+    top: 62px;
+    left: 142px;
+    letter-spacing: 0.03em;
+    color: #fff;
+    text-shadow: 1px 0 0 rgba(44, 44, 44, 0), 0 1px 0 rgba(44, 44, 44, 0), -1px 0 0 rgba(44, 44, 44, 0), 0 -1px 0 rgba(44, 44, 44, 0);
+}
+.rectangle-group {
+    position: absolute;
+    top: 1263px;
+    left: 0px;
+    width: 333px;
+    height: 83px;
+}
+.subscribe3 {
+    position: absolute;
+    top: calc(50% - 676.5px);
+    left: calc(50% - 39.5px);
+    letter-spacing: 0.03em;
+}
+.group-child6 {
+    position: absolute;
+    top: 1313px;
+    left: 0px;
+    background-color: #2b1354;
+    width: 333px;
+    height: 40px;
+}
+.subscribe-parent {
+    position: absolute;
+    top: calc(50% - 676.5px);
+    left: calc(50% - 167px);
+    width: 333px;
+    height: 1353px;
+    color: #fff;
+}
+.newsletter-parent {
+    position: absolute;
+    top: 0px;
+    left: 1029px;
+    width: 334px;
+    height: 1353px;
+    text-align: left;
+    font-size: 14px;
+    font-family: Poppins;
+}
+.copyright-2025-all {
+    position: absolute;
+    top: 1456px;
+    left: calc(50% - 281px);
+    font-size: 16px;
+    letter-spacing: 0.03em;
+    font-family: Poppins;
+    text-align: left;
+}
+.rectangle-parent {
+    position: absolute;
+    top: 10069px;
+    left: calc(50% - 720px);
+    width: 1440px;
+    height: 1508px;
+    text-align: center;
+    font-size: 22px;
+    font-family: Righteous;
+}
+.d-render-little-boy-riding-ska-icon {
+    position: absolute;
+    top: 1674px;
+    left: 899px;
+    width: 726px;
+    height: 806px;
+    object-fit: contain;
+}
+.cute-boy-with-backpack-jumping-icon {
+    position: absolute;
+    top: 3255px;
+    left: 796px;
+    width: 715px;
+    height: 715px;
+    object-fit: cover;
+}
+.frame-icon1 {
+    position: absolute;
+    top: 9519px;
+    left: 993px;
+    width: 356px;
+    height: 902px;
+    overflow: hidden;
+    object-fit: cover;
+}
+.group-icon1 {
+    position: absolute;
+    height: 1.09%;
+    width: 9%;
+    top: 0.28%;
+    right: 85.05%;
+    bottom: 98.63%;
+    left: 5.95%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: contain;
+}
+.home-wrapper {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    color: #f1ff00;
+}
+.apps-wrapper {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+}
+.frame-parent5 {
+    position: absolute;
+    top: 65.5px;
+    left: calc(50% - 276px);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 51px;
+    font-size: 23px;
+    color: #fff;
+}
+.kids-software-landing-page {
+    width: 100%;
+    position: relative;
+    background-color: #2b1354;
+    height: 11577px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 35px;
+    color: #2b1354;
+    font-family: Inter;
+}
+
